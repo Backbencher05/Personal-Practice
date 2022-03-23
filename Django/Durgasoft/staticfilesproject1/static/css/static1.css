@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px dotted yellow;
+    width: 25%;
+    height: 25%;
+}
+
